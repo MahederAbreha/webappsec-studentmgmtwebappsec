@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+div#mainContainer {
+    padding-top: 1em;
+}
+/*img#banner-img {*/
+/*    display: block;*/
+/*    width: 100%;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*}*/
+footer {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: mistyrose;
+}
